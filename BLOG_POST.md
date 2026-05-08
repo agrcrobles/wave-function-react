@@ -6,6 +6,14 @@ What if you could watch the Schrödinger equation run live in your browser, clic
 
 ---
 
+## Live Demo
+
+[Try it here](https://agrcrobles.github.io/wave-function-react/#)
+
+![Quantum Wave Visualizer demo](https://github.com/user-attachments/assets/5a6354ea-c9c2-451c-9019-e10a5e12ba4a)
+
+---
+
 ## What It Does
 
 The simulator presents a Gaussian wave packet — a localized probability distribution — and lets it evolve under different potentials:
