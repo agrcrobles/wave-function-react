@@ -2,6 +2,12 @@
 
 It solves the time-dependent Schrödinger equation in real time in the browser, letting you watch a wavefunction evolve, tunnel through barriers, collapse under measurement, and exhibit interference.
 
+## Live demo
+
+[Open the live app](https://agrcrobles.github.io/wave-function-react/#)
+
+![Quantum Wave Visualizer demo](https://github.com/user-attachments/assets/5a6354ea-c9c2-451c-9019-e10a5e12ba4a)
+
 ## What it does
 
 The simulation numerically integrates the time-dependent Schrödinger equation:
